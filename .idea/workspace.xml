@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="Python.ingestor">
     <configuration name="get-pip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -113,22 +114,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1581978064561">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1581999231272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581978064561" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1581978064561">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581999231272" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1581999231270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581978064561" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1581978064561">
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581999231270" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1581999231270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581978064561" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1581978064561">
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581999231270" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1581999231270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581978064561" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581999231270" />
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1581959843582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
